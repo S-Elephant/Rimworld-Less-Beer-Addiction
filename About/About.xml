@@ -1,0 +1,23 @@
+<ModMetaData>
+	<name>Less Beer Addiction</name>
+	<author>Squirting Elephant</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>SquirtingElephant.LessBeerAddiction</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>Lowers the chance of an alcohol addiction from drinking beer by raising the minimum tolerance required from 25% --> 55%.
+	
+- Performance impact: None.
+- Avg load time: 0ms.
+- Mod is XPath only.
+- Can safely be added to an existing game.
+- Can safely be removed from an existing game.
+
+If you are tired of animals eating and drinking your drugs then also consider this mod (not mine): https://steamcommunity.com/sharedfiles/filedetails/?id=1531640632</description>
+</ModMetaData>

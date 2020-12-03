@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Beer"]/comps/li[@Class="CompProperties_Drug"]/minToleranceToAddict</xpath>
+		<value>
+			<minToleranceToAddict>0.55</minToleranceToAddict> <!-- default is 0.25 -->
+		</value>
+	</Operation>
+	
+</Patch>
